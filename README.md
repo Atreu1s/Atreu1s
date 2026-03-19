@@ -4,9 +4,6 @@
   </a>
 </p>
 
-
-## About
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=00c000&center=false&width=600&height=50&lines=Full-stack+beginner+developer" alt="Developer Status"/>
 </p>
@@ -30,7 +27,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
-## Stack:
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=4000&color=00c000&center=true&width=600&height=50&lines=Stack" alt="Stackr" />
+</p>
+
 
 
 
@@ -53,12 +54,16 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white  )](https://www.postgresql.org/docs/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white  )](https://www.sqlite.org/docs.html)
 
-## Statistics
 
-
-<p align="center">
+<p align="center" >
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=4000&color=00c000&center=true&width=600&height=50&lines=Statistics" alt="Statistics" />
+</p>
+
+
 
 ![Graph](  https://github-readme-activity-graph.vercel.app/graph?username=Atreu1s&theme=react&color=00c000&bg_color=0d1117&hide_border=true)
 
@@ -82,5 +87,13 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c000:008000&height=10&section=footer&reversal=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=4000&color=00c000&center=true&width=600&height=50&lines=README+v1.2+Updated+19.03.2026" alt="Version"/>
 </p>
 
