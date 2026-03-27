@@ -68,7 +68,7 @@
 ![Graph](  https://github-readme-activity-graph.vercel.app/graph?username=Atreu1s&theme=react&color=00c000&bg_color=0d1117&hide_border=true)
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
@@ -76,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Atreu1s&show_icons=true&count_private=true&bg_color=0d1117&title_color=00c000&text_color=ffffff&icon_color=00ff00&border_color=00c000" alt="Atreu1s Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atreu1s&layout=compact&bg_color=0d1117&title_color=00c000&text_color=ffffff&icon_color=00ff00&border_color=00c000" alt="Top Langs" height="150"/>
   
-</p>
+</p> -->
 
 
 <p align="center">
@@ -94,6 +94,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=4000&color=00c000&center=true&width=600&height=50&lines=README+v1.2+Updated+19.03.2026" alt="Version"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=4000&color=00c000&center=true&width=600&height=50&lines=README+v1.3+Updated+27.03.2026" alt="Version"/>
 </p>
 
