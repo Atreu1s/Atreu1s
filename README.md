@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=00c000&center=false&width=600&height=50&lines=Full-stack+beginner+developer" alt="Developer Status"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=00c000&center=false&width=600&height=50&lines=Full-stack+developer" alt="Developer Status"/>
 </p>
 
 ![Status](https://img.shields.io/badge/🟢_Learning-000000?style=flat-square)
@@ -107,6 +107,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=4000&color=00c000&center=true&width=600&height=50&lines=README+v1.4+Updated+26.04.2026" alt="Version"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=4000&color=00c000&center=true&width=600&height=50&lines=README+v1.5+Updated+19.05.2026" alt="Version"/>
 </p>
 
